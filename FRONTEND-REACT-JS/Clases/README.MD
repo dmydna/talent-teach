@@ -1,21 +1,22 @@
 ## Temario:
 
-- clase01: [Introduccion a Reacts](/FRONTEND-REACT-JS/Clases/doc/clase01.pdf).
-- clase02: [Componentes](/FRONTEND-REACT-JS/Clases/doc/clase02.pdf).
-- clase03: [Layout](/FRONTEND-REACT-JS/Clases/doc/clase03.pdf).
-- clase04: [Hooks y Eventos](/FRONTEND-REACT-JS/Clases/doc/clase04.pdf).
-- clase05: [useEffect y Peticiones APIs](/FRONTEND-REACT-JS/Clases/doc/clase05.pdf).
-- clase06: [Router](/FRONTEND-REACT-JS/Clases/clase6.pdf).
-- clase07: [Rutas Dinámicas y Protegidas](/FRONTEND-REACT-JS/Clases/doc/clase07.pdf).
-- clase08: [Introduccion a Context API](/FRONTEND-REACT-JS/Clases/doc/clase08.pdf).
-- clase09: [Autenticación de usuarios](/FRONTEND-REACT-JS/Clases/doc/clase09.pdf).
-- clase10: [Creación de Productos - Formulario y Validación](/FRONTEND-REACT-JS/Clases/doc/clase10.pdf).
-- clase11: [Leer, Actualizar y Eliminar productos](/FRONTEND-REACT-JS/Clases/doc/clase11.pdf).
-- clase12: [Implementación del CRUD Completo](/FRONTEND-REACT-JS/Clases/doc/clase12.pdf).
-- clase13: [Estilización con Bootstrap o styled-components](/FRONTEND-REACT-JS/Clases/doc/clase13.pdf).
-- clase14: [Diseño Responsivo y UX](/FRONTEND-REACT-JS/Clases/doc/clase14.pdf).
-- clase15: [Despliegue de la Aplicación](/FRONTEND-REACT-JS/Clases/doc/clase15.pdf).
-- clase16: [Revisión Final y Presentación del Proyecto](/FRONTEND-REACT-JS/Clases/doc/clase16.pdf).
-   
 
+| Clase   | Tema                                                                 | Documentos / Recursos                                                                                |
+|---------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| clase01 | Introducción a Reacts                                                | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase01.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase1)  |
+| clase02 | Componentes                                                          | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase02.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase2)  |
+| clase03 | Layout                                                               | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase03.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase3)  |
+| clase04 | Hooks y Eventos                                                      | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase04.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase4)  |
+| clase05 | useEffect y Peticiones APIs                                          | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase05.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase5)  |
+| clase06 | Router                                                               | [Doc](/FRONTEND-REACT-JS/Clases/clase6.pdf)      \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase6)  |
+| clase07 | Rutas Dinámicas y Protegidas                                         | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase07.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase7)  |
+| clase08 | Introducción a Context API                                           | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase08.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase8)  |
+| clase09 | Autenticación de usuarios                                            | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase09.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase9)  |
+| clase10 | Creación de Productos - Formulario y Validación                      | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase10.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase10) |
+| clase11 | Leer, Actualizar y Eliminar productos                                | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase11.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase11) |
+| clase12 | Implementación del CRUD Completo                                     | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase12.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase12) |
+| clase13 | Estilización con Bootstrap o styled-components                       | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase13.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase13) |
+| clase14 | Diseño Responsivo y UX                                               | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase14.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase14) |
+| clase15 | Despliegue de la Aplicación                                          | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase15.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase15) |
+| clase16 | Revisión Final y Presentación del Proyecto                           | [Doc](/FRONTEND-REACT-JS/Clases/doc/clase16.pdf) \| [Recurso](/FRONTEND-REACT-JS/Clases/rec/clase16) |
 
