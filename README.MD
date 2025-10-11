@@ -1,2 +1,2 @@
-# CURSOS TALENT-TEACH 2025
-
+# CURSOS IT
+diferentes cursos y recursos
