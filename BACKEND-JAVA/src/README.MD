@@ -73,21 +73,3 @@
 [rec14]: /BACKEND-JAVA/src/rec/clase14
 [rec15]: /BACKEND-JAVA/src/rec/clase15
 [rec16]: /BACKEND-JAVA/src/rec/clase16
-
-
-[guia01]: /BACKEND-JAVA/src/guia/guia01.pdf
-[guia02]: /BACKEND-JAVA/src/guia/guia02.pdf
-[guia03]: /BACKEND-JAVA/src/guia/guia03.pdf
-[guia04]: /BACKEND-JAVA/src/guia/guia04.pdf
-[guia05]: /BACKEND-JAVA/src/guia/guia05.pdf
-[guia06]: /BACKEND-JAVA/src/guia/guia06.pdf
-[guia07]: /BACKEND-JAVA/src/guia/guia07.pdf
-[guia08]: /BACKEND-JAVA/src/guia/guia08.pdf
-[guia09]: /BACKEND-JAVA/src/guia/guia09.pdf
-[guia10]: /BACKEND-JAVA/src/guia/guia10.pdf
-[guia11]: /BACKEND-JAVA/src/guia/guia11.pdf
-[guia12]: /BACKEND-JAVA/src/guia/guia12.pdf
-[guia13]: /BACKEND-JAVA/src/guia/guia13.pdf
-[guia14]: /BACKEND-JAVA/src/guia/guia14.pdf
-[guia15]: /BACKEND-JAVA/src/guia/guia15.pdf
-[guia16]: /BACKEND-JAVA/src/guia/guia16.pdf
