@@ -21,22 +21,22 @@
 
 ---
 
-[clase01]: /BACKEND-JAVA/src/clase/clase01.pdf
-[clase02]: /BACKEND-JAVA/src/clase/clase02.pdf
-[clase03]: /BACKEND-JAVA/src/clase/clase03.pdf
-[clase04]: /BACKEND-JAVA/src/clase/clase04.pdf
-[clase05]: /BACKEND-JAVA/src/clase/clase05.pdf
-[clase06]: /BACKEND-JAVA/src/clase/clase06.pdf
-[clase07]: /BACKEND-JAVA/src/clase/clase07.pdf
-[clase08]: /BACKEND-JAVA/src/clase/clase08.pdf
-[clase09]: /BACKEND-JAVA/src/clase/clase09.pdf
-[clase10]: /BACKEND-JAVA/src/clase/clase10.pdf
-[clase11]: /BACKEND-JAVA/src/clase/clase11.pdf
-[clase12]: /BACKEND-JAVA/src/clase/clase12.pdf
-[clase13]: /BACKEND-JAVA/src/clase/clase13.pdf
-[clase14]: /BACKEND-JAVA/src/clase/clase14.pdf
-[clase15]: /BACKEND-JAVA/src/clase/clase15.pdf
-[clase16]: /BACKEND-JAVA/src/clase/clase16.pdf
+[clase01]: /BACKEND-JAVA/src/clase/Clase01.pdf
+[clase02]: /BACKEND-JAVA/src/clase/Clase02.pdf
+[clase03]: /BACKEND-JAVA/src/clase/Clase03.pdf
+[clase04]: /BACKEND-JAVA/src/clase/Clase04.pdf
+[clase05]: /BACKEND-JAVA/src/clase/Clase05.pdf
+[clase06]: /BACKEND-JAVA/src/clase/Clase06.pdf
+[clase07]: /BACKEND-JAVA/src/clase/Clase07.pdf
+[clase08]: /BACKEND-JAVA/src/clase/Clase08.pdf
+[clase09]: /BACKEND-JAVA/src/clase/Clase09.pdf
+[clase10]: /BACKEND-JAVA/src/clase/Clase10.pdf
+[clase11]: /BACKEND-JAVA/src/clase/Clase11.pdf
+[clase12]: /BACKEND-JAVA/src/clase/Clase12.pdf
+[clase13]: /BACKEND-JAVA/src/clase/Clase13.pdf
+[clase14]: /BACKEND-JAVA/src/clase/Clase14.pdf
+[clase15]: /BACKEND-JAVA/src/clase/Clase15.pdf
+[clase16]: /BACKEND-JAVA/src/clase/Clase16.pdf
 
 
 [guia01]: /BACKEND-JAVA/src/guia/clase01.pdf
