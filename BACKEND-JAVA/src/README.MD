@@ -21,40 +21,41 @@
 
 ---
 
-[clase01]: /BACKEND-JAVA/src/clase/Clase01.pdf
-[clase02]: /BACKEND-JAVA/src/clase/Clase02.pdf
-[clase03]: /BACKEND-JAVA/src/clase/Clase03.pdf
-[clase04]: /BACKEND-JAVA/src/clase/Clase04.pdf
-[clase05]: /BACKEND-JAVA/src/clase/Clase05.pdf
-[clase06]: /BACKEND-JAVA/src/clase/Clase06.pdf
-[clase07]: /BACKEND-JAVA/src/clase/Clase07.pdf
-[clase08]: /BACKEND-JAVA/src/clase/Clase08.pdf
-[clase09]: /BACKEND-JAVA/src/clase/Clase09.pdf
-[clase10]: /BACKEND-JAVA/src/clase/Clase10.pdf
-[clase11]: /BACKEND-JAVA/src/clase/Clase11.pdf
-[clase12]: /BACKEND-JAVA/src/clase/Clase12.pdf
-[clase13]: /BACKEND-JAVA/src/clase/Clase13.pdf
-[clase14]: /BACKEND-JAVA/src/clase/Clase14.pdf
-[clase15]: /BACKEND-JAVA/src/clase/Clase15.pdf
-[clase16]: /BACKEND-JAVA/src/clase/Clase16.pdf
+[clase01]: /BACKEND-JAVA/src/clase/clase01.pdf
+[clase02]: /BACKEND-JAVA/src/clase/clase02.pdf
+[clase03]: /BACKEND-JAVA/src/clase/clase03.pdf
+[clase04]: /BACKEND-JAVA/src/clase/clase04.pdf
+[clase05]: /BACKEND-JAVA/src/clase/clase05.pdf
+[clase06]: /BACKEND-JAVA/src/clase/clase06.pdf
+[clase07]: /BACKEND-JAVA/src/clase/clase07.pdf
+[clase08]: /BACKEND-JAVA/src/clase/clase08.pdf
+[clase09]: /BACKEND-JAVA/src/clase/clase09.pdf
+[clase10]: /BACKEND-JAVA/src/clase/clase10.pdf
+[clase11]: /BACKEND-JAVA/src/clase/clase11.pdf
+[clase12]: /BACKEND-JAVA/src/clase/clase12.pdf
+[clase13]: /BACKEND-JAVA/src/clase/clase13.pdf
+[clase14]: /BACKEND-JAVA/src/clase/clase14.pdf
+[clase15]: /BACKEND-JAVA/src/clase/clase15.pdf
+[clase16]: /BACKEND-JAVA/src/clase/clase16.pdf
 
 
-[guia01]: /BACKEND-JAVA/src/guia/clase01.pdf
-[guia02]: /BACKEND-JAVA/src/guia/clase02.pdf
-[guia03]: /BACKEND-JAVA/src/guia/clase03.pdf
-[guia04]: /BACKEND-JAVA/src/guia/clase04.pdf
-[guia05]: /BACKEND-JAVA/src/guia/clase05.pdf
-[guia06]: /BACKEND-JAVA/src/guia/clase06.pdf
-[guia07]: /BACKEND-JAVA/src/guia/clase07.pdf
-[guia08]: /BACKEND-JAVA/src/guia/clase08.pdf
-[guia09]: /BACKEND-JAVA/src/guia/clase09.pdf
-[guia10]: /BACKEND-JAVA/src/guia/clase10.pdf
-[guia11]: /BACKEND-JAVA/src/guia/clase11.pdf
-[guia12]: /BACKEND-JAVA/src/guia/clase12.pdf
-[guia13]: /BACKEND-JAVA/src/guia/clase13.pdf
-[guia14]: /BACKEND-JAVA/src/guia/clase14.pdf
-[guia15]: /BACKEND-JAVA/src/guia/clase15.pdf
-[guia16]: /BACKEND-JAVA/src/guia/clase16.pdf
+[present01]: https://gamma.app/docs/JAVA-Clase-1-kejm0q2soeisfnk?mode=doc
+[present02]: https://gamma.app/docs/Clase02-za4m2w3a8usdk4f
+[present03]: https://gamma.app/docs/Clase03-b3ctilf3i3y799m
+[present04]: https://gamma.app/docs/Clase04-y9b5ropqwm958zp
+[present05]: https://gamma.app/docs/java-Clase-05-jn272ofkzx3ys14
+[present06]: https://gamma.app/docs/Java-Clase-06-y5lope2mk5xao69
+[present07]: https://gamma.app/docs/Java-Clase-07-rkpfi0zhghkypeg
+[present08]: https://gamma.app/docs/Java-Clase08-vksw4r7c8su2kza?mode=doc
+[present09]: https://gamma.app/docs/java-09-Introduccion-a-Git-y-Control-de-Versiones-pyxt436k5iz0el4?mode=doc
+[present10]: https://gamma.app/docs/java-10-Introduccion-a-Spring-Boot-js8oqevi30fdah0?mode=doc
+[present11]: https://gamma.app/docs/java-11-Desarrollo-de-la-API-REST-con-Spring-Boot-vg6z94xg3juocli?mode=doc
+[present12]: https://gamma.app/docs/java-12-Integracion-con-Base-de-Datos-MySQL-mekiwctsq3dch9e?mode=doc
+[present13]: https://gamma.app/docs/JAVA-Clase-13-odnsg26v4mtrd05
+[present14]: https://gamma.app/docs/Java-Clase14-ihxjv3onqqe1hij
+[present15]: https://gamma.app/docs/Clase15-Java-c5kzme9r5xmzv06
+[present16]: https://gamma.app/docs/Clase16-Java-vueuvi9w48pc9df
+
 
 [rec01]: /BACKEND-JAVA/src/rec/clase01
 [rec02]: /BACKEND-JAVA/src/rec/clase02
